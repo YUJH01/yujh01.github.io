@@ -1,7 +1,9 @@
 theme: jekyll-theme-minimal
 title: Jiahao Yu
-Imagefile: pic.jpg
-description: - |
-  Year 1 BSc Data Science Student,
-  School of Mathematics,
-  University of Bristol.
+author:
+  picture:
+    path: /pic.jpg
+description: ->
+  Year 1 BSc Data Science Student
+  School of Mathematics
+  University of Bristol
