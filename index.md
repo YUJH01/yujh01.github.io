@@ -1,3 +1,4 @@
+Here's some info about me.
 ## **Education Details**
  - #### **Sept 2021 - Present, *University of Bristol*, Bristol, UK**
    - [**BSc Data Science with a Year in Industry**](https://www.bristol.ac.uk/study/undergraduate/2021/maths/bsc-data-science-with-a-year-in-industry/)
