@@ -2,7 +2,7 @@ Here's some info about me. Feel free to contact me at [contact@yujh01.com](mailt
 ## **Education Details**
  - #### **Sept 2021 - Present, *University of Bristol*, Bristol, UK**
    - [**BSc Data Science with a Year in Industry**](https://www.bristol.ac.uk/study/undergraduate/2021/maths/bsc-data-science-with-a-year-in-industry/)
-   - Year 1 Course Representative
+   - Year 1&2 Course Representative
    - Units currently studying:
      - [Algorithms and Programming in C(++) and R](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=MATH10017)
      - [Analysis](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=MATH10011)
@@ -23,9 +23,12 @@ Here's some info about me. Feel free to contact me at [contact@yujh01.com](mailt
 
 ## **Professional Experience**
  - #### **July 2022, *Participant of hackathon, Bristol Institute for Learning and Teaching (BILT), University of Bristol*, Bristol, UK**
- - #### **June 2022 - September 2022, *Open Day Steward, Home Recruitment and Conversion, University of Bristol*, Bristol, UK**
+ - #### **June 2022 - Sept 2022, *Open Day Steward, Home Recruitment and Conversion, University of Bristol*, Bristol, UK**
 
-## Skills and Qualifications
+## **Voluntary Experience**
+ - #### **Nov 2021 - Present, *Course Representative for BSc Data Science, School of Mathematics, University of Bristol*, Bristol, UK**
+
+## **Skills and Qualifications**
   - **Jan 2021**, IBM Data Science Foundations Specialization
   - **July 2020**, IELTS 7.5
   - **Dec 2019**, Second Prize in National Olympiad in Informatics in Provinces (China)
