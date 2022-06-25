@@ -21,6 +21,10 @@ Here's some info about me. Feel free to contact me at [contact@yujh01.com](mailt
       - [Mathematics for Mathematicians](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=LANG00043)
  - #### **Sept 2018 - July 2020, *Suzhou High School Affiliated to Xi’an Jiaotong University*, Suzhou, China**
 
+## **Professional Experience**
+ - #### **July 2022, *Participant of hackathon, Bristol Institute for Learning and Teaching (BILT), University of Bristol*, Bristol, UK**
+ - #### **June 2022 - September 2022, *Open Day Steward, Home Recruitment and Conversion, University of Bristol*, Bristol, UK**
+
 ## Skills and Qualifications
   - **Jan 2021**, IBM Data Science Foundations Specialization
   - **July 2020**, IELTS 7.5
