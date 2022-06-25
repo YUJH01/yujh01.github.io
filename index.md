@@ -22,11 +22,11 @@ Here's some info about me. Feel free to contact me at [contact@yujh01.com](mailt
  - #### **Sept 2018 - July 2020, *Suzhou High School Affiliated to Xi’an Jiaotong University*, Suzhou, China**
 
 ## **Professional Experience**
- - #### **July 2022, *Participant of hackathon, Bristol Institute for Learning and Teaching (BILT), University of Bristol*, Bristol, UK**
- - #### **June 2022 - Sept 2022, *Open Day Steward, Home Recruitment and Conversion, University of Bristol*, Bristol, UK**
+ - #### **July 2022, *Participant of Hackathon*, Bristol Institute for Learning and Teaching (BILT), University of Bristol, Bristol, UK**
+ - #### **June 2022 - Sept 2022, *Open Day Steward*, Home Recruitment and Conversion, University of Bristol, Bristol, UK**
 
 ## **Voluntary Experience**
- - #### **Nov 2021 - Present, *Course Representative for BSc Data Science, School of Mathematics, University of Bristol*, Bristol, UK**
+ - #### **Nov 2021 - Present, *Course Representative for BSc Data Science*, School of Mathematics, University of Bristol, Bristol, UK**
 
 ## **Skills and Qualifications**
   - **Jan 2021**, IBM Data Science Foundations Specialization
