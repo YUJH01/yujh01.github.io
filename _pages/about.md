@@ -11,8 +11,7 @@ profile:
   more_info: >
     <p>GSK Medicines Research Centre</p>
     <p>Gunnels Wood Road</p>
-    <p>Stevenage, SG1 2NY</p>
-    <p>UK</p>
+    <p>Stevenage, SG1 2NY, UK</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -27,4 +26,4 @@ At *University of Bristol*, I work with <ins>Dr. Song Liu</ins> on a part-time b
 
 Feel free to contact me at `jiahao.yu at bristol.ac.uk` for anything.
 
-P.S. **I am actively looking for a PhD position in Statistical Machine Learning starting 2025 fall, globally.** I am also looking for a summer research studentship in 2025 summer. I would be greatly appreciated to hear from potential supervisors.
+P.S. **I am actively looking for a PhD position in Statistical Machine Learning starting 2025 fall, globally.** I am also looking for a research studentship in 2025 summer. I would be greatly appreciated to hear from potential supervisors.
