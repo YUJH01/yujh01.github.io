@@ -1,3 +1,7 @@
 "ICML":
   url: https://icml.cc
   color: "#00369f"
+
+"UK-QSAR":
+  url: https://ukqsar.org/
+  color: "#712492"
