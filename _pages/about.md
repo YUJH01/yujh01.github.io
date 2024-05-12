@@ -16,8 +16,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a third year *BSc Data Science* student at [University of Bristol](https://bristol.ac.uk), taking a *Computational Scientist* Industrial Placement at [GSK](https://gsk.com).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+During my placement at *GSK*, I am co-supervised by <ins>Dr. David Marcus</ins> (GSK) and <ins>Prof. Christophe Andrieu</ins> (Bristol). My research involves *missing data imputation*, *augmentation*, and *uncertainty estimation/mitigation*, in the setting of drug discovery data.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+At *University of Bristol*, I work with <ins>Dr. Song Liu</ins> on a part-time basis. My research includes *missing data imputation* by utilizing *gradient flows*.
