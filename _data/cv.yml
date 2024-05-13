@@ -4,20 +4,25 @@
     - title: BSc Data Science with Year in Industry
       institution: University of Bristol, UK
       year: 2021 - Present
-      website: https://bristol.ac.uk/
 
 
 - title: Research Experience
   type: time_table
   contents:
     - title: Computational Scientist Industrial Placement
-      company: GlaxoSmithKline (GSK), Stevenage, UK
+      institution: GlaxoSmithKline (GSK), Stevenage, UK
       year: 2023 - Present
+      description: 
+        - Supervisors: Dr. David Marcus (GSK) and Prof. Christophe Andrieu (Bristol)
       
     - title: Undergraduate Researcher
       institution: University of Bristol, UK
       year: 2023 - Present
+      description: 
+        - Supervisor: <a href="https://allmodelsarewrong.net/">Dr. Song Liu</a>
 
     - title: Summer Intern
       institution: Tel Aviv University, Israel
       year: 2023 - 2023
+      description: 
+        - Supervisor: Dr. Mahmood Sharif
