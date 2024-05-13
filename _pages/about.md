@@ -22,7 +22,9 @@ I am a third year *BSc Data Science* student at [University of Bristol](https://
 
 During my placement at *GSK*, I am co-supervised by <ins>Dr. David Marcus</ins> (GSK) and <ins>Prof. Christophe Andrieu</ins> (Bristol). My research areas involve *missing data imputation*, *augmentation*, and *uncertainty estimation/mitigation*, in the setting of drug discovery data.
 
-At *University of Bristol*, I work with <ins>Dr. Song Liu</ins> on a part-time basis. My research areas include *missing data imputation* by utilizing *gradient flows*.
+At *University of Bristol*, I work with [Dr. Song Liu](https://allmodelsarewrong.net/) on a part-time basis. My research areas include *missing data imputation* by utilizing *gradient flows*.
+
+Previously, I worked with [Dr. Mahmood Sharif](https://mahmoods01.github.io/) on *adversarial machine learning* at [Tel Aviv University](https://english.tau.ac.il/).
 
 Feel free to contact me at `jiahao.yu at bristol.ac.uk` for anything.
 
