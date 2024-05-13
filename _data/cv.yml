@@ -12,6 +12,7 @@
   contents:
     - title: Computational Scientist Industrial Placement
       institution: GlaxoSmithKline (GSK), Stevenage, UK
+      department: Cheminformatics, Data and Predictive Sciences
       year: 2023 - Present
       description: 
         - Supervisors&#58; Dr. David Marcus (GSK) and Prof. Christophe Andrieu (Bristol)
@@ -19,14 +20,16 @@
       
     - title: Undergraduate Researcher
       institution: University of Bristol, UK
+      department: School of Mathematics
       year: 2023 - Present
       description: 
         - Supervisor&#58; <a href="https://allmodelsarewrong.net/">Dr. Song Liu</a>
-        - Topics&#58; Data imputation, and gradient flows."
+        - Topics&#58; Data imputation, and gradient flows.
 
     - title: Summer Internship
       institution: Tel Aviv University, Israel
+      department: Blavatnik School of Computer Science
       year: 2023 - 2023
       description: 
         - Supervisor&#58; <a href="https://mahmoods01.github.io/">Dr. Mahmood Sharif</a>
-        - Topic&#58; Adversarial machine learning."
+        - Topic&#58; Adversarial machine learning.
