@@ -14,19 +14,19 @@
       institution: GlaxoSmithKline (GSK), Stevenage, UK
       year: 2023 - Present
       description: 
-        - "Supervisors:" Dr. David Marcus (GSK) and Prof. Christophe Andrieu (Bristol)
-        - "Topics:" Data imputation, augmentation, uncertainty estimation/mitagation, and QSAR.
+        - Supervisors&#58; Dr. David Marcus (GSK) and Prof. Christophe Andrieu (Bristol)
+        - Topics&#58; Data imputation, augmentation, uncertainty estimation/mitagation, and QSAR.
       
     - title: Undergraduate Researcher
       institution: University of Bristol, UK
       year: 2023 - Present
       description: 
-        - "Supervisor:" <a href="https://allmodelsarewrong.net/">Dr. Song Liu</a>
-        - "Topics:" Data imputation, and gradient flows."
+        - Supervisor&#58; <a href="https://allmodelsarewrong.net/">Dr. Song Liu</a>
+        - Topics&#58; Data imputation, and gradient flows."
 
     - title: Summer Internship
       institution: Tel Aviv University, Israel
       year: 2023 - 2023
       description: 
-        - "Supervisor:" <a href="https://mahmoods01.github.io/">Dr. Mahmood Sharif</a>
-        - "Topic:" Adversarial machine learning."
+        - Supervisor&#58; <a href="https://mahmoods01.github.io/">Dr. Mahmood Sharif</a>
+        - Topic&#58; Adversarial machine learning."
